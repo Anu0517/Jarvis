@@ -1,4 +1,4 @@
-# Jarvis: Personalized Learning Platform
+# Jarvis: Smart Notes Summarizer
 
 ## Overview
 Jarvis is an AI-powered platform that transforms PDF notes into interactive learning experiences. Upload notes, get summaries, or ask questions, all through a sleek, accessible UI.
