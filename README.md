@@ -36,6 +36,3 @@ Jarvis is an AI-powered platform that transforms PDF notes into interactive lear
 - Support for images (OCR) and videos (transcription).
 - User authentication with Clerk.
 - Quiz and flashcard generation.
-
-## Hackathon Context
-Built for the Personalized Education Hackathon, Jarvis leverages AI to make learning interactive and efficient, addressing the needs of students and educators.
